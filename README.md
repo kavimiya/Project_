@@ -24,7 +24,7 @@ This project aims to automate the process of extracting faculty information from
 To use this project, follow these steps:
 
 1. Clone the repository:
- git clone 
+ git clone https://github.com/kavimiya/Project_.git
 
 2. Install the required libraries:
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 
 3. Run the web scraping script:
-
+Web Scraping Florida Polytechnic University Directory using Python and BeautifulSoup .ipynb
 
 
 ## Example Output:
